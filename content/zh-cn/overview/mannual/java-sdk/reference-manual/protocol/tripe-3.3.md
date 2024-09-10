@@ -4,7 +4,7 @@ aliases:
   - /zh-cn/docs3-v2/java-sdk/reference-manual/protocol/triple/3.3/
 description: "本文介绍 triple 协议在 3.3 版本中的新特性"
 linkTitle: tripe-3.3新特性
-title: tripe-3.3新特性
+title: Tripe 3.3 新特性
 type: docs
 weight: 5
 ---
